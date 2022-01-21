@@ -36,7 +36,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   vosk_flutter_plugin:
     git:
-      url: https://github.com/alphacep/vosk-flutter-demo.git
+      url: git@github.com:JuhaKarhusaari/vosk-flutter-demo.git
       ref: e752836c669b11ae72de2deefdfe9fced32881ec
 dev_dependencies:
   flutter_test:

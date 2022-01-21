@@ -267,7 +267,7 @@ packages:
       path: "."
       ref: e752836c669b11ae72de2deefdfe9fced32881ec
       resolved-ref: e752836c669b11ae72de2deefdfe9fced32881ec
-      url: "https://github.com/alphacep/vosk-flutter-demo.git"
+      url: "git@github.com:JuhaKarhusaari/vosk-flutter-demo.git"
     source: git
     version: "1.0.2"
   win32:
