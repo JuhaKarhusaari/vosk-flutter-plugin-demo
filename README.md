@@ -1,6 +1,8 @@
-# flutter_application_1
+# Vosk flutter plugin demo
+This repository using vosk_flutter_plugin dependency that is forked from [here](https://github.com/alphacep/vosk-flutter-demo).
 
-A new Flutter project.
+## About models
+- https://alphacephei.com/vosk/models
 
 ## Getting Started
 
